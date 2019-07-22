@@ -1,0 +1,3 @@
+export const CONTACT_US = "CONTACT_US";
+export const CONTACT_ERROR = "CONTACT_ERROR";
+export const CONTACT_ERROR_EXIST = "CONTACT_ERROR_EXIST";
